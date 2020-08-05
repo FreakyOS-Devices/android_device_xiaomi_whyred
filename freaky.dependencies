@@ -1,27 +1,23 @@
 [
     {
-        "remote":       "github",
-        "repository":   "Jhonse02/android_device_xiaomi_sdm660-common",
+        "repository":   "android_device_xiaomi_sdm660-common-1",
         "target_path":  "device/xiaomi/sdm660-common",
-        "revision":     "still_alive"
+        "branch":     "still_alive"
     },
     {
-        "remote":       "github",
-        "repository":   "LineageOS/android_kernel_xiaomi_sdm660",
+        "repository":   "android_kernel_xiaomi_sdm660",
         "target_path":  "kernel/xiaomi/sdm660",
-        "revision":     "lineage-17.1"
+        "branch":     "still_alive"
     },
     {
-        "remote":       "github",
-        "repository":   "Jhonse02/proprietary_vendor_xiaomi_whyred",
+        "repository":   "proprietary_vendor_xiaomi_whyred",
         "target_path":  "vendor/xiaomi",
-	"revision":	"ten"
+	"branch":	"still_alive"
     },
     {
         "remote":       "github",
         "repository":   "Jhonse02/vendor_MiuiCamera",
         "target_path":  "vendor/MiuiCamera",
-        "revision":     "10.x"
+        "branch":     "10.x"
     }
-
 ]
