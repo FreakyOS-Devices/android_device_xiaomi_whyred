@@ -24,6 +24,6 @@
         "remote":       "github",
         "repository":   "Jhonse02/vendor_dirac",
         "target_path":  "vendor/dirac",
-        "revision":     "ten"
+        "branch":     "still_alive"
     }
 ]
